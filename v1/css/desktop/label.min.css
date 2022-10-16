@@ -1,0 +1,30 @@
+div.queryMessage {
+	font-size: 13px;
+	padding: 10px 24px;
+	border-radius: 6px;
+	box-shadow: 1px 1px 6px 1px #e0e0e0;
+	top: 14px;
+	position: relative;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+	-webkit-align-items: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center
+}
+
+.index-post-wrap {
+	margin: 3% 0 0
+}
+
+.queryEmpty {
+	text-align: center;
+	padding: 150px;
+	font-size: 16px
+}
