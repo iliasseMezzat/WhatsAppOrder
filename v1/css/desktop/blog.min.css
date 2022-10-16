@@ -400,13 +400,13 @@ div.tokped_line-head {
 	flex-direction: column;
 	-webkit-box-align: center;
 	align-items: center;
-	flex-basis: 232px;
-	padding: 0 40px 24px;
-	margin-top: -16px
+	flex-basis: 240px;
+	padding: 0;
+	margin-top: -25px;
 }
 
 #widget-footer4 .Image {
-	width: 550px;
-	height: 211px;
-	margin-top: -16px
+	width: 150px;
+	height: 30px;
+	margin-top: 13px;
 }
