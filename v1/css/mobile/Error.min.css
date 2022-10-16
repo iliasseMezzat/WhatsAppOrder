@@ -1,0 +1,25 @@
+.mobile .topMobile,
+.mobile .tokopedia_top,
+.mobile #blogpedia-footer {
+	display: none
+}
+
+.mobile .blogpedia_error h3 {
+	font-size: 80px
+}
+
+.mobile .blogpedia_error_text h4 {
+	font-size: 1.42857rem
+}
+
+.mobile div.errorWrap {
+	width: 100%;
+	margin-top: 100px
+}
+
+.mobile div.errorWrap .homepage {
+	font-size: 14px;
+	height: 40px;
+	line-height: 40px;
+	width: 100%
+}
