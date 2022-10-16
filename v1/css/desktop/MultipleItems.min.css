@@ -1,0 +1,73 @@
+body.over {
+	overflow: hidden
+}
+
+#blogpedia_wrapper {
+	margin: 0 auto 150px;
+	min-height: 100vh;
+	width: 100%;
+	display: block;
+	position: relative
+}
+
+.mcu #main,
+.blog-posts .hfeed {
+	position: relative;
+	display: block;
+	width: 100%
+}
+
+#slideHome .owl-dot {
+	position: absolute;
+	top: 0;
+	z-index: -1;
+	height: 100%;
+	width: 100%
+}
+
+.tokped_label-best {
+	background-image: url(https://1.bp.blogspot.com/-zJLEIqSaglM/YGzSmU-XndI/AAAAAAAADPE/KZd2TgfPVOA6oHDUm6rNrX-99LqiM6F4QCLcBGAsYHQ/s0/best-rianseo.png)
+}
+
+.tokped_label-populart {
+	background-image: url(https://1.bp.blogspot.com/-b4hZcwtYYp4/YGtXSvY8fgI/AAAAAAAADOg/N76r9QYJM0w-B_vNvP0QUKGAN3qfzRHgwCLcBGAsYHQ/s0/label_rianseo.png)
+}
+
+.tokopedia_line {
+	position: relative;
+	display: block;
+	height: 8px;
+	width: 100%;
+	border: 0;
+	margin: 40px 0
+}
+
+.loadMore .js-load,
+.btnOlderPost {
+	font-size: 1.14286rem;
+	height: 48px;
+	line-height: 22px;
+	border-radius: 8px;
+	font-weight: 700;
+	outline: 0;
+	padding: 0 16px;
+	transition: background .8s ease 0s;
+	cursor: pointer;
+	display: inline-block;
+	background: radial-gradient(circle, transparent 1%, transparent 1%) center center / 15000% transparent;
+	text-indent: initial;
+	position: relative;
+	width: 320px
+}
+
+.loadMore .js-load span {
+	display: block;
+	font-size: inherit;
+	opacity: 1;
+	overflow: hidden;
+	position: relative;
+	text-overflow: ellipsis;
+	top: 0;
+	transition: opacity .3s linear 0s, top .3s linear 0s;
+	white-space: nowrap
+}
