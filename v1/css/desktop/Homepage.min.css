@@ -1,0 +1,85 @@
+.btnBlogpedia_widget {
+	position: relative;
+	display: block;
+	min-height: 64px;
+	margin: 0 0 20px
+}
+
+.btnBlogpedia_scroll {
+	cursor: pointer;
+	position: relative;
+	display: block;
+	width: 100%;
+	min-height: 40px;
+	text-align: left;
+	overflow: auto hidden;
+	white-space: nowrap;
+	transition: all .5s ease 0s
+}
+
+.btnBlogpedia_home {
+	outline: 0;
+	cursor: pointer;
+	position: relative;
+	display: inline-block;
+	width: 216px;
+	height: 64px;
+	padding: 6px 8px;
+	margin: 0;
+	border: 0;
+	border-radius: 8px;
+	background-image: url(https://1.bp.blogspot.com/-KyR-SVbslg0/YHCdle3hP8I/AAAAAAAADQY/aIYkiLyTybs6fJnIOb9mTGS9a-o28e_ewCLcBGAsYHQ/s0/tokped_rianseo.png);
+	background-repeat: no-repeat;
+	background-size: cover
+}
+
+.btnBlogpedia_home a {
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+	width: 100%;
+	height: 42px;
+	text-align: left;
+	font-size: 16px;
+	font-weight: 800;
+	line-height: 1.38;
+	color: #fff !important;
+	overflow: hidden;
+	white-space: normal;
+	overflow-wrap: break-word
+}
+
+#fiktur-wrapper {
+	position: relative;
+	width: 100%;
+	margin: 0 0 20px
+}
+
+#recent-section1 .widget-content {
+	padding: 24px 0 20px 0
+}
+
+.tokped_main .widget-title,
+div.tokpedia-title-porn {
+	margin: 0 0 16px;
+	min-height: 30px
+}
+
+.tokopedia_hot {
+	margin: 24px 0 19px;
+	padding: 0;
+	background-color: #fff;
+	cursor: default;
+	position: relative;
+	display: block;
+	border-radius: 0;
+	box-shadow: none
+}
+
+.tokopedia_hot:after {
+	display: block;
+	content: "
+	"
+	;
+	height: 1px
+}
