@@ -1,1 +1,412 @@
 /* Desktop */
+html {
+	font-size: 14px;
+	font-family: '
+	Open Sans'
+	,
+	sans-serif
+}
+
+#widget-footer4 .Text {
+	flex-direction: row;
+	margin: 16px 0;
+	display: flex;
+	flex-flow: column nowrap;
+	font-size: 13px;
+	font-weight: 600;
+	line-height: 18px
+}
+
+.search-icon svg {
+	vertical-align: middle
+}
+
+.tokopedia_top {
+	margin-top: 110px;
+	padding-top: 1px
+}
+
+#tokopedia-main-container {
+	flex-direction: column;
+	width: 100%;
+	min-width: 1024px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	z-index: 999;
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	box-shadow: rgb(0 0 0 / 7%) 0 4px 6px -1px;
+	transition: transform 280ms ease 0s;
+	height: 110px
+}
+
+#header-wrapper {
+	width: 96%;
+	left: 32px;
+	display: flex;
+	height: 56px;
+	top: 30px;
+	position: fixed;
+	-webkit-box-align: center;
+	align-items: center
+}
+
+.header {
+	width: 145px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	justify-content: center;
+	margin: 4px 0 0 4px
+}
+
+#kekiri {
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	cursor: pointer;
+	height: 58px;
+	width: auto;
+	margin: 0 0 0 16px;
+	-webkit-box-pack: center;
+	justify-content: center
+}
+
+.toko-profil .name {
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+	vertical-align: middle;
+	line-height: 16px
+}
+
+.toko-profil img {
+	width: 25px;
+	height: 25px;
+	border-radius: 50%
+}
+
+.toko-profil .widget-content,
+.toko-profil .individual {
+	display: flex
+}
+
+.toko-profil .individual a {
+	color: rgba(0, 0, 0, .54)
+}
+
+.toko-profil .team-member,
+.toko-profil .individual {
+	position: relative;
+	display: flex;
+	padding: 0 0 0 6px;
+	height: 36px;
+	color: rgba(0, 0, 0, .54);
+	-webkit-box-align: center;
+	align-items: center;
+	border-radius: 2px
+}
+
+.tokped_open-user,
+.profile-link {
+	padding: 8px;
+	color: inherit !important;
+	text-overflow: ellipsis;
+	font-size: 12px;
+	-webkit-font-smoothing: antialiased;
+	overflow: hidden;
+	white-space: nowrap;
+	text-transform: capitalize
+}
+
+div.tokped_line-head {
+	width: 1.2px;
+	min-width: 1.2px;
+	height: 24px;
+	background: #e0e0e0;
+	margin: 0 0 0 16px
+}
+
+.link-right {
+	display: flex;
+	-webkit-box-pack: justify;
+	justify-content: space-between;
+	-webkit-box-align: center;
+	align-items: center;
+	margin: 0 4px 0 20px;
+	z-index: 475
+}
+
+.link-right .cart,
+.link-right .notif,
+.link-right .kontak {
+	display: flex;
+	-webkit-box-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	align-items: center;
+	cursor: pointer;
+	z-index: 2;
+	height: 58px;
+	margin: 0 0 0 12px
+}
+
+.subheader-inner {
+	width: 100%;
+	display: flex;
+	height: 32px;
+	padding: 0 32px;
+	position: fixed;
+	-webkit-box-pack: justify;
+	justify-content: space-between;
+	left: 0;
+	right: 0
+}
+
+.subheader-inner .subheader-left {
+	display: flex;
+	-webkit-box-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	align-items: center;
+	min-width: 168px;
+	margin-right: 16px
+}
+
+.subheader-inner .subheader-right .widget {
+	display: flex;
+	margin: 0 -20px 0 0;
+	justify-content: space-around;
+	width: 522px
+}
+
+.subheader-inner a {
+	font-size: 12px;
+	line-height: 31px;
+	display: flex;
+	flex-wrap: nowrap;
+	white-space: nowrap;
+	-webkit-box-align: center;
+	align-items: center;
+	transition: color 200ms ease 0s;
+	-webkit-font-smoothing: antialiased;
+	margin: 0 0 0 4px
+}
+
+@media(min-width:768px) {
+	.subheader-inner a {
+		margin: 0 0 0 4px
+	}
+}
+
+.link-right a {
+	width: 36px;
+	height: 30px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	justify-content: center;
+	position: relative
+}
+
+.tokped_search {
+	width: 100%;
+	display: flex;
+	box-sizing: border-box;
+	-webkit-box-align: center;
+	align-items: center;
+	height: 32px;
+	border-radius: 8px;
+	transition: border 280ms ease 0s;
+	margin-top: 4px
+}
+
+.tokped_cari-porn {
+	width: 100%;
+	margin: 0;
+	height: 100%
+}
+
+.tokped_search-heigh {
+	height: 100%;
+	width: 100%;
+	position: relative;
+	border-radius: 8px;
+	display: flex;
+	-webkit-box-flex: inherit;
+	flex-grow: inherit;
+	overflow: hidden;
+	transition: border-color 280ms ease 0s;
+	-webkit-box-pack: center;
+	justify-content: center;
+	-webkit-box-align: center;
+	align-items: center;
+	border: 0;
+	flex-direction: row-reverse
+}
+
+.search-trend .widget-content {
+	position: fixed;
+	top: 86px;
+	width: 45%;
+	left: 274px;
+	display: flex;
+	z-index: -1
+}
+
+.search-trend a {
+	line-height: 1.5;
+	font-size: 12px;
+	margin: 0 2% 0 0;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	position: relative;
+	cursor: pointer;
+	text-transform: capitalize
+}
+
+.home-ad1 .widget {
+	opacity: .6;
+	font-size: 12px;
+	line-height: 22px
+}
+
+.search-icon {
+	display: flex;
+	height: 56px;
+	min-width: 150px;
+	width: 46%
+}
+
+@media(min-width:1100px) {
+	.search-icon {
+		width: 49%
+	}
+}
+
+#search_mini_form {
+	margin: 0;
+	width: 100%;
+	position: relative;
+	-webkit-box-align: center;
+	align-items: center;
+	display: flex
+}
+
+.tokped_search.data-border {
+	border: 1px solid #4fd15a
+}
+
+.search-icon .button {
+	border: 0;
+	outline: 0;
+	position: relative;
+	cursor: pointer;
+	height: 100%;
+	flex: 0 0 32px;
+	padding: 0;
+	transition: background-color 280ms ease 0s;
+	width: 32px
+}
+
+.input-search {
+	outline: 0;
+	padding: 10px 12px;
+	font-family: inherit;
+	font-size: 12px;
+	width: 100%;
+	border: 0;
+	margin: 0
+}
+
+.cart span.simpleCart_quantity,
+.link-right .btnNotif span {
+	min-width: 20px;
+	min-height: 20px;
+	color: #fff;
+	font-size: 10px;
+	font-weight: 700;
+	line-height: 1.6;
+	text-align: center;
+	border: 2px solid #fff;
+	border-radius: 18px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 0 4px;
+	transform: translate(30%, -8%)
+}
+
+.blogpedia_footer-raw h3 {
+	font-size: 16px;
+	line-height: 22px;
+	margin: 0 0 8px
+}
+
+#blogpedia-footer-wrapper .blogpedia_footer-raw .widget ul {
+	margin: 0 0 24px;
+	min-width: 200px
+}
+
+#blogpedia-footer-wrapper .widget a {
+	font-weight: 600;
+	line-height: 20px;
+	font-size: 13px;
+	transition: color 280ms ease 0s
+}
+
+#blogpedia-footer-wrapper .widget ul,
+#blogpedia-footer-wrapper .widget ol,
+#blogpedia-footer-wrapper .widget ol li {
+	list-style: none;
+	margin: 0;
+	padding: 0
+}
+
+#blogpedia-footer-wrapper .widget ul li {
+	display: block;
+	margin: 0 0 8px
+}
+
+#widget-footer-wrapper h2 {
+	font-size: 16px;
+	font-weight: 600;
+	text-transform: none;
+	margin-bottom: 20px
+}
+
+#widget-footer1 {
+	display: block;
+	padding: 0;
+	margin: 0 0 24px;
+	min-width: 200px;
+	list-style: none
+}
+
+#widget-footer2,
+#widget-footer3 {
+	display: flex;
+	flex-flow: column nowrap
+}
+
+#widget-footer4 {
+	display: flex;
+	flex-direction: column;
+	-webkit-box-align: center;
+	align-items: center;
+	flex-basis: 232px;
+	padding: 0 40px 24px;
+	margin-top: -16px
+}
+
+#widget-footer4 .Image {
+	width: 550px;
+	height: 211px;
+	margin-top: -16px
+}
