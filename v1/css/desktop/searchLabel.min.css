@@ -1,0 +1,93 @@
+.post {
+	padding-bottom: 25px;
+	border-radius: 0;
+	box-shadow: 0 0 !important;
+	border-bottom: 1px solid #f3f3f3
+}
+
+.post-outer {
+	width: 100% !important;
+	margin-bottom: 20px !important;
+	padding: 0 0 !important;
+	box-sizing: border-box;
+	float: none !important
+}
+
+.produk-info-container {
+	padding: 0 30px 30px !important;
+	text-align: left !important;
+	max-height: none !important
+}
+
+.img-thumbnail {
+	border-radius: 0;
+	position: relative;
+	max-width: 215px !important;
+	height: auto !important;
+	padding-bottom: 0 !important;
+	width: 218px;
+	float: left
+}
+
+.img-thumbnail img {
+	border-radius: 0;
+	max-width: 215px !important;
+	width: 100%;
+	display: block
+}
+
+.status-msg-wrap,
+.ini-artikel,
+.tombol-beli,
+#fiktur-wrapper {
+	display: none !important
+}
+
+.produk-info {
+	line-height: 1.6em !important;
+	font-weight: normal;
+	height: auto !important
+}
+
+h2.post-title {
+	font-size: 24px;
+	font-weight: 700;
+	margin-bottom: 10px;
+	line-height: 1.4em;
+	max-height: 100%;
+}
+
+.post-snippet,
+.readmoreartikel {
+	display: block !important
+}
+
+#sidebar-wrapper {
+	display: none;
+}
+
+#post-wrapper {
+	float: left !important;
+}
+
+@media only screen and (max-width:480px) {
+	h2.post-title {
+		font-size: 14px;
+		margin: 0 0 0 10px;
+	}
+
+	.produk-info-container {
+		padding: 0 !important;
+	}
+
+	.img-thumbnail img,
+	.img-thumbnail {
+		width: 100px;
+		height: 67px !important;
+		float: left;
+	}
+
+	.post-body {
+		display: none;
+	}
+}
