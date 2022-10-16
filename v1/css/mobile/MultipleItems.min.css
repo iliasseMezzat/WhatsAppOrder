@@ -1,0 +1,72 @@
+.mobile .index-post-wrap {
+	padding: 0 12px
+}
+
+.mobile .Blog .grid-posts {
+	margin-right: -4px;
+	margin-left: -4px;
+	flex-flow: wrap
+}
+
+.mobile .Blog .blog-post.hentry {
+	flex: 1 1 50%;
+	max-width: 50%;
+	padding: 0 8px;
+	margin: 0 0 12px
+}
+
+.navMobile {
+	position: fixed;
+	bottom: 0;
+	height: 50px;
+	max-width: 500px;
+	margin: 0 auto;
+	width: 100%;
+	display: flex;
+	flex-wrap: nowrap;
+	-webkit-box-pack: justify;
+	justify-content: space-between;
+	align-items: flex-start;
+	z-index: 20;
+	background-color: #fff;
+	box-shadow: rgb(108 114 124 / 16%) 0 -2px 4px 0;
+	padding: 0 0 50px
+}
+
+.navMobile .widget {
+	width: calc(33.3333%)
+}
+
+.navIcon {
+	display: flex;
+	-webkit-box-pack: center;
+	justify-content: space-around;
+	-webkit-box-align: center;
+	align-items: center;
+	position: relative;
+	z-index: 0;
+	text-align: center;
+	white-space: nowrap;
+	flex-flow: column nowrap;
+	padding: 4px 0;
+	transition: color .2s ease-out 0s
+}
+
+.navIconPost,
+.navIconPost img {
+	position: relative;
+	width: 24px;
+	height: 24px;
+	margin-bottom: 4px
+}
+
+.navText {
+	display: block;
+	position: relative;
+	font-weight: 400;
+	font-size: 10px;
+	line-height: 16px;
+	color: rgba(49, 53, 59, 0.68);
+	text-decoration: initial;
+	margin: 0
+}
