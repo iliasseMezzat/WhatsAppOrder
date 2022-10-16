@@ -1,0 +1,327 @@
+.tokopedia_top {
+	margin-top: 109px
+}
+
+.blogPedia_btnBuy a.item_add {
+	color: #fff
+}
+
+#breadcrumb {
+	margin-bottom: 19px;
+	font-size: 12px;
+	line-height: 24px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center
+}
+
+ul.breadcrumbs_list {
+	padding: 0;
+	margin: 0;
+	max-width: 50%;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis
+}
+
+li.breadcrumbs_item,
+li.current {
+	display: inline;
+	margin: 0;
+	padding: 0
+}
+
+#breadcrumb em {
+	margin: 0
+}
+
+#breadcrumb .delimiter {
+	vertical-align: middle;
+	padding: 0;
+	margin: 0 4px
+}
+
+.breadlabel {
+	text-overflow: ellipsis;
+	color: rgba(0, 0, 0, .7)
+}
+
+.tokopedia_header {
+	display: flex;
+	flex-wrap: nowrap;
+	height: auto;
+	margin: 0
+}
+
+.tokopedia_star {
+	min-height: 22px;
+	margin: 0 0 4px
+}
+
+.tokopedia_left {
+	flex-shrink: 1;
+	width: 446px;
+	min-width: 0;
+	margin-left: 0;
+	border-left: none
+}
+
+.tokopedia_right {
+	flex-shrink: 0;
+	width: 754px;
+	min-width: 0;
+	margin-left: 0;
+	padding: 0 0 0 60px;
+	border-left: none
+}
+
+.tokopedia_harga,
+.tokopedia_qty,
+.tokopedia_ongkir {
+	padding: 20px 0;
+	border-top: 1px solid #e5e7e9
+}
+
+.data-produk {
+	white-space: nowrap;
+	display: flex;
+	margin: 0 0 12px
+}
+
+.tokopedia_header dt {
+	display: inline-block;
+	text-transform: uppercase;
+	vertical-align: top;
+	width: 70px
+}
+
+.tokopedia_header span.item_text {
+	display: block;
+	position: relative;
+	font-weight: 700;
+	font-size: .857143rem;
+	line-height: 18px;
+	color: rgba(49, 53, 59, 0.32);
+	text-decoration: initial;
+	margin: 0
+}
+
+.tokopedia_qty .quantity,
+.tokopedia_alamat,
+.tokopedia_header .item-produk,
+.harga_barang-jual {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 20px;
+	width: 620px;
+	margin: 0
+}
+
+.tokopedia_qty .quantity .Qty,
+.tokopedia_pengiriman {
+	display: flex;
+	flex-wrap: nowrap;
+	height: auto;
+	margin: 0
+}
+
+.tokopedia_tujuan {
+	flex-shrink: 0;
+	min-width: 0;
+	margin-left: 0;
+	border-left: none
+}
+
+.tokopedia_shipping {
+	text-align: right;
+	min-width: 200px
+}
+
+.tokopedia_pengiriman .tokopedia_ongkos {
+	flex-shrink: 1;
+	min-width: 0;
+	margin-left: auto;
+	border-left: none
+}
+
+.tokopedia_tujuan #biaya_boshjn {
+	border: 0;
+	position: relative;
+	background: transparent;
+	font-weight: 700;
+	outline: 0;
+	font-size: .857143rem;
+	line-height: 18px;
+	color: rgba(49, 53, 59, 0.96);
+	display: inline-block;
+	text-decoration: initial;
+	margin: 0
+}
+
+.tokopedia_notes a {
+	font-size: 12px
+}
+
+small.stock {
+	display: block;
+	position: relative;
+	font-weight: 400;
+	line-height: 18px;
+	color: rgba(49, 53, 59, 0.96);
+	text-decoration: initial;
+	margin: 0 0 10px
+}
+
+.harga_text .item_price {
+	margin: 0
+}
+
+.item_Quantity {
+	text-align: center;
+	width: 66px;
+	line-height: 22px;
+	font-size: 16px;
+	padding: 1px;
+	border-style: none none solid;
+	border-image: initial;
+	border-bottom: 1px solid #e5e7e9;
+	border-radius: 0;
+	outline: 0
+}
+
+.tokopedia_container {
+	padding: 16px 0 40px
+}
+
+.tokopedia_body h1,
+.tokopedia_body h2,
+.tokopedia_body h3,
+.tokopedia_body h4,
+.tokopedia_body h5,
+.tokopedia_body h6 {
+	margin: 0 0 .6em
+}
+
+.tokopedia_body ol,
+.tokopedia_body ul {
+	margin: 0 0 20px
+}
+
+.tokopedia_content {
+	margin: 32px 0 0;
+	position: relative;
+	border-top: 1px solid #e5e7e9
+}
+
+.item-post {
+	padding: 19px 0 0
+}
+
+.tokopedia_harga .harga_text {
+	font-size: 24px;
+	font-stretch: normal;
+	font-weight: 700;
+	color: rgba(49, 53, 59, 0.96);
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis
+}
+
+.tokopedia-tag .label-head {
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: lowercase
+}
+
+.item-post #coli-carousel .owl-carousel .owl-item img {
+	border-radius: 8px;
+	object-fit: cover
+}
+
+.item-post #coli-carousel .owl-carousel .owl-stage-outer {
+	margin-bottom: 8px
+}
+
+.item-post #coli-carousel .owl-dots {
+	display: flex;
+	margin-right: -6px;
+	margin-left: -6px;
+	justify-content: flex-start
+}
+
+.item-post #coli-carousel .owl-carousel .owl-dot {
+	outline: 0;
+	width: 64px;
+	height: 64px;
+	margin: 0 4px;
+	cursor: pointer;
+	border: 2px solid #fff;
+	transition: border-color .25s ease 0s;
+	border-radius: 8px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat
+}
+
+#coli-carousel .owl-carousel .owl-dot.active {
+	border-color: #4fd15a
+}
+
+.tombol-beli {
+	box-shadow: 0 -2px 6px 0 rgba(49, 53, 59, .16)
+}
+
+.beli-lewat-chat {
+	display: flex;
+	align-items: center;
+	align-content: center;
+	margin: 0 auto;
+	max-width: 1220px;
+	padding: 0
+}
+
+.tambah-porn {
+	border: 1px solid #ef430c
+}
+
+.blogPedia_btnBuy .add-chat,
+.tambah-porn {
+	background: #ef430c;
+	min-width: 120px;
+	display: inline-block;
+	margin-left: 10px;
+	vertical-align: middle;
+	padding: 13px 19px;
+	border-radius: 3px;
+	font-weight: 600;
+	font-size: 15px;
+	color: #fff;
+	white-space: nowrap
+}
+
+.blogPedia_btnBuy .add-chat {
+	background: #fff;
+	border: 1px solid #ef430c;
+	color: #ef430c !important;
+	min-width: auto
+}
+
+.tokopedia_body {
+	text-align: left;
+	font-size: 1rem;
+	padding: 20px 0
+}
+
+#related-wrap {
+	margin: 30px 0;
+	padding: 0
+}
+
+.blog-post-comments h3.title {
+	margin: 32px 0 16px
+}
+
+.blog-post-comments {
+	width: 985px;
+	margin-bottom: 24px
+}
