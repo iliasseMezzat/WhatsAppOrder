@@ -1,0 +1,1190 @@
+.tokped_label-best {
+	background-image: url(https://1.bp.blogspot.com/-8R9GOOEAbEg/YG8Rl727TXI/AAAAAAAADPM/M4qvPrCUC-Yu5i1Bg3COoCuK4aXWgW-cACLcBGAsYHQ/s0/toko-rianseo.png)
+}
+
+.tokped_label-populart {
+	background-image: url(https://1.bp.blogspot.com/-q66JiVgDVTQ/YG8WQvPcLNI/AAAAAAAADPU/qX_hT2eqPtgXelskWwScdsFhmXpUk_66gCLcBGAsYHQ/s0/diskon-rianseo.png)
+}
+
+div.tokopedia_flex-porn {
+	height: 20px;
+	margin-bottom: 24px;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	-webkit-box-pack: justify;
+	justify-content: space-between
+}
+
+div.tokopedia_flex-porn h3 {
+	font-size: 1.14286rem;
+	line-height: 22px;
+	text-rendering: optimizelegibility;
+	white-space: nowrap
+}
+
+div.tokopedia_flex-porn a {
+	font-size: 14px;
+	font-weight: 700
+}
+
+div.single_otherQ {
+	width: 950px;
+	height: auto;
+	max-height: 420px;
+	overflow: auto;
+	padding: 0 25px 35px
+}
+
+a.single_btnCart {
+	flex-shrink: 0;
+	z-index: 1;
+	font-size: 1rem;
+	height: 40px;
+	line-height: 40px;
+	width: auto;
+	border-radius: 8px;
+	font-weight: 700;
+	outline: 0;
+	color: #fff !important;
+	padding: 0 16px;
+	transition: background .8s ease 0s;
+	cursor: pointer;
+	display: inline-block;
+	background: radial-gradient(circle, transparent 1%, #03ac0e 1%) center center / 15000% #03ac0e;
+	border: 0;
+	position: relative
+}
+
+span.produk_blog {
+	-webkit-box-flex: 1;
+	flex-grow: 1;
+	padding: 0 16px;
+	line-height: 21px;
+	font-size: 14px;
+	width: 300px
+}
+
+.single_kolom {
+	padding: 16px;
+	position: relative;
+	box-shadow: #ca 0 1px 4px 0;
+	background-color: #fff;
+	cursor: default;
+	border-radius: 8px;
+	margin: 16px 28px 28px
+}
+
+.bgCart:before {
+	right: 0;
+	content: "
+	"
+	width: 174px;
+	height: 90px;
+	position: absolute;
+	background: url(https://1.bp.blogspot.com/-LiIEH8O-wSM/YILrrEcqSmI/AAAAAAAADcg/9MkMP86tdR469L0KIkgAXn-s2cMasa8hgCLcBGAsYHQ/s0/keranjang_bg.png) center top / 100% no-repeat
+}
+
+.single_fixed.go-to-xnxx {
+	display: block;
+	opacity: 1
+}
+
+.single_fixed_overflow.go-to-redtube {
+	display: block
+}
+
+.single_fixed_overflow {
+	width: 100%;
+	height: 100%;
+	background-color: #31353b;
+	opacity: .68;
+	position: fixed;
+	top: 0;
+	display: none;
+	left: 0;
+	overflow: hidden;
+	z-index: 9999;
+	will-change: opacity;
+	transition: opacity 300ms cubic-bezier(0, 0, 0.3, 1) 0s
+}
+
+.single_fixed {
+	display: none;
+	z-index: 10009;
+	opacity: 0;
+	min-width: 500px;
+	background: #fff;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 8px;
+	transition: opacity .2s ease 0s;
+	box-shadow: rgb(49 53 59 / 12%) 0 1px 6px;
+	padding: 32px 32px 0
+}
+
+.single_closed {
+	cursor: pointer;
+	position: absolute;
+	right: 16px;
+	top: 16px;
+	border: 0;
+	outline: 0;
+	background: transparent
+}
+
+.item-post .owl-prev {
+	left: 18px
+}
+
+.item-post .owl-next {
+	right: 18px
+}
+
+.owl-item,
+.owl-carousel .owl-wrapper {
+	-webkit-backface-visibility: hidden;
+	-moz-backface-visibility: hidden;
+	-ms-backface-visibility: hidden;
+	-webkit-transform: translate3d(0, 0, 0);
+	-moz-transform: translate3d(0, 0, 0);
+	-ms-transform: translate3d(0, 0, 0)
+}
+
+.item-post .owl-item {
+	min-height: 1px;
+	float: left;
+	-webkit-backface-visibility: hidden;
+	-webkit-touch-callout: none
+}
+
+.item-post .owl-stage {
+	position: relative;
+	-ms-touch-action: pan-Y;
+	touch-action: manipulation;
+	-moz-backface-visibility: hidden
+}
+
+.item-post #coli-carousel .separator a {
+	display: block;
+	padding-top: 0 !important;
+	padding-bottom: 100% !important;
+	transition: padding-bottom .2s cubic-bezier(.25, .8, .5, 1);
+	transition: padding-bottom .2s cubic-bezier(.25, .8, .5, 1)
+}
+
+.item-post #coli-carousel .owl-prev,
+.item-post #coli-carousel .owl-next {
+	position: absolute;
+	outline: 0;
+	top: 42%;
+	font-size: 24px;
+	width: 32px;
+	height: 32px;
+	margin: 0 12px;
+	border-radius: 16px;
+	cursor: pointer;
+	background: rgba(51, 51, 51, .24);
+	border: 0;
+	transition-duration: .3s;
+	transform: translateY(-42%)
+}
+
+.item-post #coli-carousel .owl-prev svg,
+.item-post #coli-carousel .owl-next svg {
+	fill: #fff
+}
+
+.harga_barang-jual .harga_promo.show,
+.bg-label_index,
+del.harga_promo.show {
+	font-size: 14px
+}
+
+.mobile #header-wrapper {
+	background-color: #fff;
+	will-change: background-color, outline;
+	outline: #dae2ed solid 1px
+}
+
+.label-mobile-produk,
+.shared-relative {
+	position: relative
+}
+
+.bg-label_index {
+	background: linear-gradient(90deg, #02d25b 0, #179d45 100%);
+	color: #fff;
+	padding: 10px 16px;
+	margin: 0;
+	font-weight: 600;
+	z-index: 2;
+	position: relative;
+	line-height: 1.5
+}
+
+.bg-label_index .produk_diskon.show {
+	display: flex;
+	flex: 1 1 0;
+	-webkit-box-align: center;
+	align-items: center;
+	font-size: inherit;
+	background: transparent;
+	padding: 0;
+	height: auto;
+	color: inherit;
+	line-height: inherit;
+	margin: 0
+}
+
+.overhead {
+	position: absolute;
+	width: calc(100% + 32px);
+	height: 100%;
+	right: -16px;
+	top: 0;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiIAAACoBAMAAAAvLpiOAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJcEhZcwAAITgAACE4AUWWMWAAAAAqUExURf///////0dwTP///////////////////////////////////////////6v2oYEAAAAOdFJOUylLAAMkPi8YNx4JEw5ElKtfLQAACP5JREFUeNrtnL9LHFsUx6eYrO6TV7xCsLG5+0CyWshGkKevWIggCRbPYsVG2Fe42AiSCCHRIhYu2ywseYKYNGENSNRC3AcSYxESIcTYWCjb+L+8ufNjZ+beOz/undm5s49zKiE7vz5zzvd8z9klCsorvyAtRhQJ8etv6QsFoUYWE8kVJRDJpJPIe6WJkbyXkSRbMT3G8L0WsREZUd70btncl2rVStk6XaWysr10E5lIzhCS3iub28VqmXnSlShUNCJoTUW9Vza3tbLfeSvbNxGIjCunmMioDCIPxGRjsRx86pUlYSKjymM9SRoyykbgVd5WQ568Uhckkiv26UTGZSTJ37x33C7zAN8WIoK+GP13TAaR/i7y0JnURYg8NPovWpOBhKdsbssizJf4ieSUAWSQkRCroe918LXgJVZueImgE7WQeksyvBDhGnVeIhNm2aTYkrTL0eRqno+IOf+m15IMVyNfps5FBDWMskmrtnomSKZSWyyV8Jh3Xyot1irl6GpiEhlXnsnT1kBLwk4Q5lA37OPuM0scRMbMskmjtg4yHjFTW/Lz+F41thyeSKdsJlKnrW368zaO4fvSdq1WwVGraeUTNPj034QmYnWbfNq09S/qoayplrkMqKyUzH8erIpVjkUkb5o0zdFLCM/WOFxmD7TDJZ9lQMb60KJIz7GIoDWzbKQ0YK9V2iDJYz7k8JsxEonp6pZDEpkwVwLoJD07gTsWj1C7kU42sYyMfxvuEMkrxkpATpKsBjddY2Ab5LBqFf2IW3oaysyHIaIJyKnEJGFIyGt6MhnktK6GjtL+zk9fbSIjylPrjzS4NLem1m4EeHTyhFE69RBEckVTW6VY+X4/W6Znuehoo6sGnSarwUQ0J/9GYpK4XdoQ1Rza0VYBNM/lYCJjlrbKT5IhMkEGI+0C9FUAhXT5JoiIJqmnEtvNFtu460m/EPXk2yyqbEvvJPLQHPfktJsHTBtS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);
+	background-position: right top;
+	background-repeat: no-repeat;
+	background-size: 45%;
+	z-index: 3
+}
+
+del.harga_promo.show {
+	line-height: 20px;
+	margin: 8px 0
+}
+
+.item-post #coli-carousel .owl-carousel .owl-item img {
+	display: block;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	position: absolute
+}
+
+.best-post:hover .tokped_map:not(.disable-transition),
+.best-post:hover .tokped_useer:not(.disable-transition) {
+	transform: translateY(-18px)
+}
+
+.best-post {
+	padding: 0 .8% 3%;
+	width: calc(16.6667%);
+	box-sizing: border-box
+}
+
+.best-image-link {
+	position: relative;
+	display: inline-flex;
+	-webkit-box-align: stretch;
+	align-items: stretch;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	box-sizing: border-box
+}
+
+.best-image-wrap {
+	position: relative;
+	box-shadow: rgb(0 0 0 / 10%) 0 1px 6px 0;
+	border-radius: 8px;
+	min-width: 100%;
+	display: flex;
+	flex-direction: column
+}
+
+.best-top {
+	position: relative
+}
+
+.best-top .produk_diskon.show {
+	position: absolute;
+	bottom: 4px;
+	left: 4px;
+	z-index: 1
+}
+
+.best-img-minggu {
+	position: relative;
+	height: 0;
+	border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+	padding-bottom: 100%;
+	width: 100%;
+	background: #f6f6f6;
+	transition: box-shadow .25s ease 0s;
+	text-overflow: ellipsis;
+	overflow: hidden
+}
+
+.best-tokped-img {
+	display: inline-block;
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	position: absolute
+}
+
+.best-product-info {
+	position: relative;
+	padding: 8px;
+	box-sizing: border-box;
+	overflow: hidden;
+	-webkit-box-flex: 1;
+	flex-grow: 1
+}
+
+.best-product-info .best-post-title {
+	display: -webkit-box;
+	color: rgba(0, 0, 0, 0.7);
+	max-height: 38px;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 19px;
+	overflow: hidden;
+	white-space: normal;
+	overflow-wrap: break-word
+}
+
+.best-product-info .harga_promo.show {
+	margin-top: 4px
+}
+
+.best-product-info .harga {
+	display: block;
+	width: 100%;
+	font-size: 14px;
+	font-weight: bold;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	line-height: 22px
+}
+
+.tokopedia_body {
+	line-height: 20px;
+	word-break: break-word
+}
+
+.tokopedia_body p {
+	margin: 0 0 20px
+}
+
+.tokopedia_body p:last-child {
+	margin-bottom: 0
+}
+
+.tokopedia_title {
+	display: flex;
+	position: relative;
+	min-height: 48px;
+	white-space: nowrap;
+	background-color: #fff;
+	overflow-x: auto;
+	overflow-y: hidden
+}
+
+.tokopedia_tabDetail,
+.tokopedia_tabFeed,
+.tokopedia_tabRelated {
+	display: inline-block;
+	box-sizing: border-box;
+	height: auto;
+	line-height: 20px;
+	font-weight: 700;
+	text-transform: capitalize;
+	font-size: 14px;
+	cursor: pointer;
+	padding: 12px 24px
+}
+
+.pin:first-of-type {
+	padding-left: 0 !important
+}
+
+.data-produk span {
+	display: block;
+	margin: 0 0 3px;
+	width: 100%
+}
+
+.data-produk .pin {
+	display: inline-block;
+	padding: 0 16px;
+	border-right: 1px solid #e5e7e9
+}
+
+.data-produk .pin p {
+	display: block;
+	font-family: '
+	open sans'
+	,
+	'
+	tahoma'
+	,
+	sans-serif;
+	position: relative;
+	font-weight: 400;
+	font-size: .8571428571428571rem;
+	line-height: 18px;
+	color: rgba(49, 53, 59, 0.68);
+	-webkit-text-decoration: initial;
+	text-decoration: initial;
+	margin: 0;
+	text-transform: capitalize
+}
+
+.tentang-penjual {
+	width: 36%
+}
+
+div.about-author {
+	margin-right: auto
+}
+
+div.about-author,
+.nama-penjual,
+.blogPedia_btnBuy {
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center
+}
+
+.author-name {
+	font-size: 16px;
+	line-height: 22px;
+	margin: 0;
+	display: -webkit-box;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	overflow: hidden
+}
+
+a.chat-penjual {
+	display: flex;
+	align-items: center;
+	padding: 13px 19px;
+	border-radius: 3px;
+	font-weight: 600;
+	font-size: 15px;
+	color: #fff
+}
+
+div.about-author .author-image {
+	width: 48px;
+	height: 48px;
+	margin: 0 12px 0 0;
+	object-fit: contain;
+	border-radius: 50%
+}
+
+.author-description {
+	font-size: 12px;
+	white-space: nowrap;
+	line-height: 20px;
+	display: -webkit-box;
+	margin: 4px 8px 0 0;
+	-webkit-line-clamp: 1;
+	-webkit-box-orient: vertical;
+	overflow: hidden
+}
+
+.ikuti-penjual {
+	font-size: .857143rem;
+	height: 32px;
+	line-height: 18px;
+	border-radius: 8px;
+	font-weight: 700;
+	outline: 0;
+	padding: 0 16px;
+	transition: background .8s ease 0s;
+	cursor: pointer;
+	display: inline-block;
+	background: radial-gradient(circle, transparent 1%, transparent 1%) center center / 15000% transparent;
+	text-indent: initial;
+	position: relative;
+	margin-right: 0;
+	width: auto
+}
+
+.blogpedia-order.open {
+	visibility: visible;
+	opacity: 1;
+	transition: opacity 300ms cubic-bezier(0, 0, 0.3, 1) 0s
+}
+
+.blogpedia-order {
+	width: 100%;
+	height: 100%;
+	background-color: rgba(49, 53, 59, 0.68);
+	visibility: hidden;
+	opacity: 0;
+	position: fixed;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	z-index: 1000;
+	will-change: opacity
+}
+
+.order-wrap {
+	display: block;
+	opacity: 1;
+	min-width: 600px;
+	background: #fff;
+	border: 1px solid #dbdee2;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border-radius: 8px;
+	padding: 32px 32px 24px;
+	transition: opacity .2s ease 0s;
+	box-shadow: 0 1px 6px rgba(49, 53, 59, 0.12);
+	-webkit-font-smoothing: subpixel-antialiased;
+	z-index: 1000
+}
+
+.order-form-wrapper {
+	max-height: calc(100vh - 230px);
+	padding: 0 0 16px;
+	overflow: auto
+}
+
+.order-data-produk,
+.order-wrap .flex,
+.form__order-row,
+.form__order-no-row {
+	margin: 0 0 16px
+}
+
+.order-data-produk {
+	display: grid;
+	grid-template-columns: auto 1fr;
+	grid-gap: 15px
+}
+
+.order-wrap .flex {
+	display: grid;
+	grid-template-columns: 1fr auto;
+	grid-column-gap: 10px
+}
+
+.order-wrap a.kantup {
+	font-size: 30px;
+	font-weight: 300;
+	color: inherit
+}
+
+.order-foto img {
+	border-radius: 8px
+}
+
+.order-data-produk .item_jumlah {
+	margin: 4px 0;
+	opacity: .6;
+	font-size: .857143rem;
+	line-height: 18px
+}
+
+.order-judul .show {
+	margin: 0 0 5px;
+	font-weight: 700;
+	line-height: 20px
+}
+
+.form__order-row {
+	display: flex
+}
+
+.form__text {
+	display: block;
+	font-size: .857143rem;
+	margin: 0 0 6px;
+	line-height: 1.2;
+	color: rgba(0, 0, 0, .54)
+}
+
+.text-form__total {
+	font-size: 12px;
+	font-weight: 700;
+	line-height: 20px
+}
+
+.form__order-row .no-width {
+	width: 100%
+}
+
+.form-item__left {
+	margin-right: 14px
+}
+
+.form-item__left,
+.form-item__right {
+	width: calc((100% - 14px)/2)
+}
+
+.form-item__left input,
+.form-item__right input,
+textarea.alamat,
+select.bank {
+	border-radius: 4px;
+	outline: 0;
+	border: 1px solid #ccc;
+	padding: 7px 10px;
+	display: block;
+	width: 100%;
+	color: #52565e;
+	transition: all .3s ease 0s;
+	resize: none;
+	box-sizing: border-box;
+	margin-bottom: 0;
+	user-select: auto;
+	font-size: .928571rem;
+	line-height: 1.4
+}
+
+.order-payment {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center
+}
+
+.form__order-total .simpleCart_grandTotal {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	white-space: nowrap;
+	line-height: 20px;
+	color: #fa591d;
+	font-weight: 800;
+	font-size: 1.14286rem
+}
+
+.form__order-submit {
+	width: 100%;
+	max-width: 50%
+}
+
+.form__order-submit button.submit {
+	font-size: 1rem;
+	height: 40px;
+	line-height: 18px;
+	width: 100%;
+	border-radius: 8px;
+	font-weight: 800;
+	outline: 0;
+	overflow: hidden;
+	padding: 0 16px;
+	position: relative;
+	text-overflow: ellipsis;
+	transition: background .8s ease 0s;
+	white-space: nowrap;
+	color: #fff;
+	display: block;
+	background: radial-gradient(circle, transparent 1%, #03ac0e 1%) center center / 15000% #03ac0e;
+	border: 0;
+	text-indent: initial
+}
+
+.instan-chat {
+	overflow-x: auto;
+	white-space: nowrap;
+	padding: 10px 8px 10px 16px;
+	position: relative
+}
+
+.intan-text-chat:hover {
+	background-color: #ebffef
+}
+
+.intan-text-chat span {
+	max-width: 120px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis
+}
+
+.intan-text-chat {
+	display: inline-flex;
+	vertical-align: top;
+	flex: 1 1 0;
+	white-space: nowrap;
+	cursor: pointer;
+	flex-wrap: nowrap;
+	height: 28px;
+	margin-right: 8px;
+	overflow: hidden;
+	padding: 0 12px;
+	text-overflow: ellipsis;
+	font-size: 13px;
+	-webkit-box-align: center;
+	align-items: center;
+	margin-bottom: 0;
+	transition: all .2s ease 0s;
+	background-color: #fff;
+	line-height: 16px;
+	border-radius: 16px
+}
+
+.box-redtube {
+	padding: 12px 8px 8px
+}
+
+.buka-chat {
+	display: flex;
+	overflow-x: auto;
+	background-color: #f3f4f5
+}
+
+.tanya-produk {
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center;
+	position: relative;
+	max-width: 240px;
+	margin: 8px;
+	padding: 8px 32px 8px 8px;
+	background-color: #fff;
+	border-radius: 20px;
+	box-shadow: rgb(0 0 0 / 12%) 0 0 6px 0
+}
+
+.tanya-produk img {
+	margin-right: 12px;
+	border-radius: 8px
+}
+
+.tanya-produk .produkName {
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 22px;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap
+}
+
+.chatStatusAdmin .nama-penjual:after {
+	font-weight: 700
+}
+
+.blogpedia-chat {
+	max-height: calc(100vh - 233px);
+	height: 450px;
+	width: 560px;
+	display: none;
+	position: fixed;
+	right: 6%;
+	bottom: 0;
+	background-color: #fff;
+	border-radius: 12px;
+	box-shadow: #b5bbc5 0 2px 30px 0;
+	z-index: -1;
+	transition: all .2s ease-in-out 0s;
+	transform: translateY(0px);
+	opacity: 0
+}
+
+.blogpedia-chat.open {
+	max-height: calc(100vh - 233px);
+	display: flex;
+	z-index: 99;
+	transform: translateY(-40px);
+	opacity: 1
+}
+
+.box-chat_flex {
+	display: flex;
+	position: relative;
+	width: 100%;
+	height: 100%
+}
+
+.chatLeft {
+	width: 30%;
+	display: flex;
+	flex-direction: column
+}
+
+.chatRight {
+	width: 70%;
+	border-left: 1px solid #e5e7e9
+}
+
+.chatFlex {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	position: relative
+}
+
+.chatAdmin {
+	display: flex;
+	-webkit-box-pack: start;
+	justify-content: flex-start;
+	min-height: 56px;
+	z-index: 100;
+	-webkit-box-align: center;
+	align-items: center;
+	height: 56px;
+	padding: 10px 8px 10px 16px;
+	box-shadow: rgb(0 0 0 / 5%) 0 2px 4px 0
+}
+
+div.content-box {
+	display: flex;
+	flex-direction: column;
+	height: calc(100% - 56px);
+	position: relative
+}
+
+.noted-chat {
+	position: relative;
+	margin: 16px 0;
+	-webkit-box-flex: 1;
+	flex-grow: 1;
+	padding: 0 16px;
+	overflow-y: auto
+}
+
+.noted-bg {
+	position: relative;
+	padding: 8px 16px;
+	border-radius: 8px;
+	width: 100%;
+	background-color: #ebf6f6;
+	overflow: hidden
+}
+
+.noted-svg {
+	position: absolute;
+	top: -5px;
+	left: -5px
+}
+
+.noteChat {
+	font-size: 12px;
+	line-height: 1.5
+}
+
+.chatStatusAdmin {
+	width: 90%
+}
+
+.wwc-wrap .fake_Message {
+	display: none !important
+}
+
+.chatStatusAdmin div.about-author .author-image {
+	width: 36px;
+	height: 36px;
+	margin: 0 8px 0 0
+}
+
+.chatStatusAdmin .ikuti-penjual,
+.fake_Message {
+	display: none
+}
+
+.chatStatusAdmin .author-name {
+	font-size: 14px;
+	line-height: 22px
+}
+
+.chatStatusAdmin .tentang-penjual {
+	width: calc(100% - 164px)
+}
+
+.fake_Message {
+	font-size: .785714rem;
+	line-height: 1.4;
+	color: #d6001c
+}
+
+.fake_Message.big_TT {
+	display: block
+}
+
+.wwc-wrap {
+	display: flex;
+	box-shadow: rgb(0 0 0 / 8%) 0 -1px 2px 0;
+	padding: 10px 16px;
+	align-items: flex-end
+}
+
+.wwc-wrap .item {
+	position: relative;
+	-webkit-box-flex: 1;
+	flex-grow: 1;
+	width: calc(100% - 42px);
+	display: flex;
+	align-items: flex-end
+}
+
+.icon-smile {
+	position: absolute;
+	bottom: 9px;
+	left: 9px
+}
+
+textarea.pesan {
+	width: 100%;
+	margin: 0;
+	resize: none;
+	outline: 0;
+	line-height: 20px;
+	color: #40454c;
+	overflow-x: hidden;
+	border: 1px solid #e5e7e9;
+	border-radius: 20px;
+	padding: 10px 34px 10px 40px;
+	font-size: 13px
+}
+
+button.s2 {
+	height: 42px;
+	border: 0;
+	padding: 0;
+	margin-left: 8px;
+	outline: 0;
+	background-color: transparent;
+	cursor: pointer;
+	display: flex;
+	-webkit-box-align: center;
+	align-items: center
+}
+
+.pesan.focus,
+.nama.focus,
+.nomorHP.focus,
+.alamat.focus,
+.kota.focus,
+.kodepos.focus {
+	border: 1px solid #d6001c
+}
+
+.tombol-beli {
+	margin: 0 auto;
+	position: fixed;
+	left: 0;
+	z-index: 30;
+	border-radius: 16px 16px 0 0;
+	right: 0;
+	bottom: 0;
+	background: #fff;
+	padding: 20px
+}
+
+.facebook {
+	background: #3b5998
+}
+
+.twitter {
+	background: #55acee
+}
+
+.googleplus {
+	background: #dd4b39
+}
+
+.linkedin {
+	background: #0077b5
+}
+
+.pinterest {
+	background: #cb2027
+}
+
+.whatsapp {
+	background: #25d366
+}
+
+#related-wrap .title-wrap,
+.tilt {
+	position: relative;
+	float: left;
+	width: 100%;
+	margin: 0 0 20px
+}
+
+#related-wrap .title-wrap h3,
+.tilt {
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 1.2
+}
+
+#top-continue {
+	margin-bottom: 20px;
+	padding: 16px 16px 16px 24px;
+	display: flex;
+	-webkit-box-pack: justify;
+	justify-content: space-between;
+	-webkit-box-align: center;
+	align-items: center;
+	border: 1px solid #e0e0e0;
+	background-color: #fff;
+	font-size: 14px
+}
+
+#top-continue .comment-reply {
+	display: inline-block;
+	border: 0;
+	padding: 0 16px;
+	border-radius: 8px;
+	height: 44px;
+	line-height: 44px;
+	font-weight: 700;
+	color: #fff;
+	text-indent: initial;
+	position: relative
+}
+
+.comments .comments-content .icon.blog-author:after,
+.chatStatusAdmin .nama-penjual:after {
+	position: relative;
+	content: "
+	Penjual"
+	display: inline-flex;
+	-webkit-box-align: center;
+	align-items: center;
+	border-radius: 3px;
+	line-height: 16px;
+	padding: 0 8px;
+	height: 20px;
+	font-size: .714286rem;
+	background-color: #daf5db;
+	margin: 0 0 0 4px;
+	overflow: initial;
+	-webkit-box-pack: center;
+	justify-content: center;
+	transition: all 280ms ease-out 0s
+}
+
+.blog-post-comments h3.title {
+	display: block;
+	position: relative;
+	font-weight: 800;
+	font-size: .85714rem;
+	line-height: 18px;
+	color: inherit;
+	text-transform: uppercase
+}
+
+.comments .comments-content .comment-thread ol {
+	text-align: left;
+	margin: 0;
+	padding: 0;
+	list-style: none
+}
+
+.comments .thread-chrome.thread-expanded li.comment {
+	padding: 10px 0 0 56px;
+	border-radius: 0;
+	position: relative;
+	background: #fafafa;
+	margin-left: -16px;
+	margin-right: -27px;
+	margin-bottom: 0;
+	border-top: 1px solid #e5e7e9;
+	border-bottom: 0;
+	border-right: 0;
+	border-left: 0
+}
+
+.comment .avatar-image-container {
+	float: left;
+	position: relative;
+	display: table
+}
+
+.comment .avatar-image-container img {
+	display: inline-block;
+	margin: 3px 0 0;
+	width: 32px;
+	height: 32px;
+	border-radius: 50%;
+	object-fit: cover;
+	position: relative
+}
+
+.comments .comment-block {
+	position: relative;
+	line-height: 15px;
+	padding: 0 0 20px 48px
+}
+
+.comments .comments-content .comment-header {
+	line-height: 1.45;
+	margin: 0 0 3px
+}
+
+.comments .comments-content .user {
+	font-style: normal
+}
+
+.comments .comments-content .user a {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 12px;
+	font-weight: 600;
+	color: rgba(0, 0, 0, 0.7);
+	overflow-wrap: break-word
+}
+
+.comments .comments-content .datetime:before {
+	content: "
+	."
+	position: relative;
+	top: -3px;
+	margin: 0 5px;
+	font-weight: 700
+}
+
+.comments .comments-content .datetime a {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 11px;
+	color: rgba(0, 0, 0, 0.38)
+}
+
+.comments .comments-content .comment-content {
+	margin: 0;
+	font-size: 1rem;
+	line-height: 20px;
+	overflow-wrap: break-word
+}
+
+.comment-thread .comment-actions {
+	display: block;
+	overflow: hidden;
+	padding: 10px 0;
+	font-size: 12px
+}
+
+.comment-thread .comment-actions .comment-reply {
+	padding-right: 6px
+}
+
+.comment-thread.toplevel-thread .comment-replies {
+	width: 100%;
+	display: block;
+	padding-left: 0;
+	box-sizing: border-box;
+	padding-bottom: 0;
+	border: 0
+}
+
+.comment-thread .comment {
+	margin: 0 0 24px;
+	box-sizing: border-box;
+	padding: 20px 27.5px 0 16px;
+	border-radius: 3px;
+	border: 1px solid #e5e7e9
+}
