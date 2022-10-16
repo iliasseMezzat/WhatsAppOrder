@@ -1,0 +1,125 @@
+.mobile #recent-section1 .widget-title,.mobile #tokped_main .widget-title,.mobile div.tokpedia-title-porn{
+    padding:8px 16px;
+    margin:0
+}
+.mobile #recent-section1 .widget-title h3.title,#tokped_main .widget-title h3.title,div.tokpedia-title-porn h2{
+    font-size:1.14286rem;
+    line-height:1.57143rem
+}
+.mobile #recent-section1 .widget-content{
+    padding:16px 14px;
+    background:linear-gradient(#00d25b,#00d25b)
+}
+.mobile #recent-section1 .grid-posts,.mobile .tokped_main .grid-posts{
+    overflow-x:scroll;
+    margin-right:-4px;
+    margin-left:-4px;
+    flex-flow:row
+}
+.mobile .tokped_main .grid-posts{
+    padding:8px 14px
+}
+.mobile #recent-section1 .blog-post.hentry,.mobile .tokped_main .blog-post.hentry{
+    position:relative;
+    display:block;
+    z-index:2;
+    min-width:140px;
+    max-width:140px;
+    padding:0 4px
+}
+.mobile .index-tokped_height{
+    background:0
+}
+.mobile #blog-pager{
+    padding:20px 12px 30px;
+    margin:0
+}
+.mobile .Blog .loadMore .js-load{
+    font-size:14px;
+    height:40px;
+    line-height:18px;
+    width:100%
+}
+.mobile #slideHome{
+    padding:8px 0;
+    background-color:transparent
+}
+.mobile .owl-carousel .owl-item{
+    display:inline-block;
+    margin:0 auto;
+    vertical-align:top;
+    position:relative
+}
+.mobile .owl-item a{
+    display:block;
+    width:100%;
+    padding:0 8px
+}
+.mobile .slideIMG{
+    margin:0 auto;
+    text-align:center;
+    position:relative;
+    display:block;
+    width:100%;
+    height:0;
+    padding-top:33.33%;
+    border-radius:8px
+}
+.mobile .slideIMG img{
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    height:100%;
+    border-radius:8px
+}
+#iconHome{
+    width:100%;
+    overflow:auto hidden;
+    margin:8px 0
+}
+.slideHomeIcon a.iconLink,.iconIMG{
+    display:flex;
+    -webkit-box-align:center;
+    align-items:center;
+    -webkit-box-pack:center;
+    justify-content:center
+}
+.slideHomeIcon{
+    display:flex;
+    align-items:flex-start;
+    -webkit-box-pack:justify;
+    justify-content:space-between;
+    padding-left:16px
+}
+.slideHomeIcon a.iconLink{
+    flex-flow:column nowrap;
+    margin-right:8px
+}
+.iconIMG{
+    margin:0 auto 4px;
+    position:relative;
+    text-align:center;
+    border-radius:50%;
+    background-color:white;
+    width:48px;
+    height:48px
+}
+.iconIMG img{
+    width:68%;
+    object-fit:contain
+}
+.iconLink span{
+    color:#31353b;
+    margin:0;
+    max-width:56px;
+    font-size:.714286rem;
+    text-align:center;
+    line-height:14px;
+    width:56px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical;
+}
