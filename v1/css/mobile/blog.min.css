@@ -1,0 +1,728 @@
+.xnxx_menu-profil .toko-profil .widget-content.team {
+    display:block
+}
+div.team-member {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    margin:10px 0
+}
+.icon-mobile-share{
+    outline:0;
+    cursor:pointer
+}
+input[type=text],textarea,select,.input{
+    font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Roboto','Oxygen','Ubuntu','Cantarell','Fira Sans','Droid Sans','Helvetica Neu',sans-serif;
+    -webkit-appearance:none
+}
+.blogpedia_menu-list-user::-webkit-scrollbar,#slideHome div.owl-nav,#coli-carousel div.owl-nav,.subheader-inner,.search-trend .LinkList,.Header,div.tokped_line-head,#kekiri,.tokopedia_dekstop,.mobile .widget-content.collapse,.mobile #widget-footer4 .Image,.mobile #widget-footer4 .LinkList a:last-child:after{
+    display:none
+}
+body.over{
+    overflow:hidden
+}
+.mobile .home-ad1 h3{
+    color:rgba(0,0,0,0.7);
+    font-size:1rem;
+    font-weight:800
+}
+.mobile .tokopedia_search-content{
+    max-height:100%;
+    overflow:auto;
+    margin-top:0;
+    box-shadow:none
+}
+.mobile .blogpedia-chat:before{
+    content:&quot;
+    &quot;
+    ;
+    cursor:default;
+    position:fixed;
+    z-index:-2;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,.4);
+    visibility:hidden;
+    opacity:0
+}
+.mobile #tokopedia-main-container,.mobile .cart-btn:hover,.mobile .link-right a:hover{
+    background-color:transparent
+}
+#header-wrapper{
+    display:grid;
+    grid-template-columns:auto 1fr auto;
+    grid-template-rows:auto;
+    column-gap:8px;
+    min-height:52px;
+    max-width:500px;
+    z-index:40;
+    width:100%;
+    background-color:transparent;
+    position:fixed;
+    will-change:background-color,outline;
+    padding:8px 16px 4px;
+    outline:initial;
+    transition:background-color .3s ease 0s,border-bottom
+}
+html{
+    font-size:14px;
+    font-family: Jost,sans-serif!important;
+}
+.mobile .search-content{
+    border-radius:0;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    overflow:hidden auto
+}
+.mobile .search-content .widget-title h3{
+    font-size:16px;
+    line-height:1.5
+}
+.mobile-search-height,.mobile-nav-search{
+    height:52px
+}
+.mobile-nav-search{
+    width:100%;
+    background-color:white;
+    z-index:1;
+    padding:8px 16px;
+    display:grid;
+    grid-template-columns:auto 1fr auto;
+    grid-template-rows:auto;
+    column-gap:8px
+}
+.mobile-search-back{
+    display:block;
+    position:relative;
+    margin:6px 0
+}
+.mobile-search-kolom{
+    align-self:center;
+    margin-left:0;
+    margin-right:-8px
+}
+.mobile .search-icon .button,.mobile .tokped_search,.mobile .individual:hover{
+    border:0;
+    background:0
+}
+.mobile-search-kolom .input-search{
+    border:0;
+    background:#f6f6f6
+}
+.mobile-search-kolom .rianseo-tutup{
+    right:15px
+}
+.search-trend{
+    display:block;
+    width:100%;
+    height:52px
+}
+.search-icon{
+    align-self:center;
+    margin-left:-8px;
+    margin-right:0
+}
+div.link-right{
+    display:grid;
+    grid-template-columns:repeat(4,24px);
+    grid-template-rows:24px;
+    column-gap:8px;
+    margin:6px 0
+}
+div.link-right a{
+    color:#9fa6b0;
+    position:relative;
+    display:block
+}
+#search_mini_form{
+    position:relative;
+    margin:0;
+    transition:margin .24s ease 0s
+}
+.search-icon .button{
+    display:inline-block;
+    position:absolute;
+    top:50%;
+    outline:0;
+    cursor:pointer;
+    left:4px;
+    padding:0;
+    border:0;
+    background:0;
+    transform:translateY(-50%);
+    width:24px;
+    height:24px
+}
+.input-search{
+    width:100%;
+    height:36px;
+    font-size:14px;
+    line-height:20px;
+    border-radius:8px;
+    padding:0 12px 2px 28px;
+    border:1px solid #dbdee2;
+    outline:0;
+    background:#fff
+}
+.cart span.simpleCart_quantity,.link-right .btnNotif span,.icon-mobile-cart .simpleCart_quantity{
+    min-width:16px;
+    color:#fff;
+    font-size:10px;
+    display:inline-block;
+    line-height:1.6;
+    text-align:center;
+    border:0;
+    border-radius:6px;
+    position:absolute;
+    top:-6px;
+    right:-6px;
+    padding:0;
+    height:16px
+}
+.mobile .navXNXX{
+    display:block;
+    padding-bottom:50px
+}
+.mobile .open.blogpedia-chat:before{
+    visibility:visible;
+    opacity:1;
+    transition:.4s
+}
+.mobile .chatRight{
+    width:100%;
+    border:0
+}
+.mobile .chatFlex{
+    border-radius:8px 8px 0 0;
+    background:#fff
+}
+.mobile .blogpedia-chat.open{
+    right:0;
+    width:100%;
+    height:auto;
+    max-height:100%;
+    overflow:hidden;
+    transform:none;
+    border-radius:8px 8px 0 0
+}
+.mobile .chatStatusAdmin .tentang-penjual{
+    width:80%
+}
+.mobile-background_img{
+    height:auto;
+    margin:0 auto;
+    position:relative;
+    text-align:center;
+    width:100%;
+    display:block
+}
+.bg_lem-fox{
+    position:absolute;
+    display:block;
+    z-index:-1;
+    left:0;
+    width:100%;
+    height:120px;
+    user-select:none;
+    pointer-events:none;
+    object-fit:cover;
+    object-position:center bottom
+}
+#header-wrapper.sticky{
+    background-color:#fff;
+    will-change:background-color,outline;
+    outline:#dae2ed solid 1px
+}
+.blogpedia_head-flex{
+    display:flex;
+    -webkit-box-align:center;
+    align-items:center;
+    -webkit-box-pack:justify;
+    justify-content:space-between;
+    border-bottom:1px solid #e5e7e9;
+    width:100%;
+    will-change:border-bottom;
+    height:52px;
+    overflow:hidden
+}
+.blogpedia_menu-close{
+    flex:0 0 auto;
+    height:52px;
+    outline:0;
+    cursor:pointer;
+    width:52px;
+    border:0;
+    background-color:transparent;
+    appearance:none
+}
+.blogpedia_menu-title{
+    flex:1 1 auto;
+    overflow:hidden
+}
+.blogpedia_menu-title h2{
+    font-size:16px;
+    line-height:22px;
+    font-weight:800
+}
+.blogpedia_menu-list-user{
+    max-height:calc(100% - 49px);
+    overflow-y:auto
+}
+.toko-profil .individual{
+    flex-flow:row nowrap;
+    display:inline-flex;
+    width:100%;
+    -webkit-box-align:center;
+    align-items:center;
+    gap:10px
+}
+.toko-profil img{
+    height:48px;
+    width:48px;
+    min-width:48px;
+    border-radius:50%;
+    overflow:hidden
+}
+.toko-profil a{
+    width:100%;
+    flex-flow:row wrap;
+    display:inline-flex;
+    color:inherit!important;
+    perspective:1000px;
+    font-size:1.14286rem;
+    font-weight:800;
+    transition:all .6s ease 0s;
+    transform-style:preserve-3d;
+    height:18px
+}
+.xnxx_menu-profil .toko-profil{
+    padding:14px 16px;
+    width:100%
+}
+.xnxx_menu-profil .toko-profil .widget-content{
+    display:flex;
+    align-items:center;
+    align-content:center;
+    font-size:1rem;
+    font-weight:700
+}
+.toko-profil .widget-content img{
+    width:48px;
+    height:48px;
+    margin-right:15px;
+    border-radius:50%
+}
+.xnxx_menu-profil .tokped_open-user,div.xnxx_menu-kategori .menu-kiri_xnxx .list-label li a,.xnxx_menu-linkL .dropdown-content1 .LinkList a{
+    color:inherit
+}
+div.xnxx_menu-kategori .menu-kiri_xnxx .widget-title,.xnxx_menu-linkL .dropdown-content1 .widget-title{
+    display:block;
+    margin:0 16px;
+    border-top:3px solid #e5e7e9
+}
+.menu-kiri_xnxx .widget-title h3,.dropdown-content1 .widget-title h3{
+    font-size:1.14286rem;
+    line-height:22px;
+    margin:10px 0 8px
+}
+div.xnxx_menu-kategori .menu-kiri_xnxx{
+    width:100%;
+    max-height:100%;
+    overflow:unset;
+    padding:8px 0;
+    border:0
+}
+div.xnxx_menu-kategori ul,div.xnxx_menu-kategori li{
+    margin:0;
+    padding:0;
+    list-style:none
+}
+div.xnxx_menu-kategori .menu-kiri_xnxx .list-label li a,.xnxx_menu-linkL .dropdown-content1 .LinkList a{
+    font-size:inherit;
+    border-radius:0;
+    display:block;
+    padding:8px 16px;
+    font-weight:400
+}
+.xnxx_menu-linkL .dropdown-content1 .LinkList{
+    display:block;
+    min-height:100%;
+    width:100%;
+    border:0;
+    margin:0 0 8px;
+    padding:0
+}
+.xnxx_menu-linkL .dropdown-content1{
+    padding:8px 0
+}
+.mobile .dropdown-content1 .LinkList a{
+    height:auto;
+    line-height:1
+}
+.blogpedia_menu-fixed.request,.overflow-shared.naik{
+    transform:translateY(0px)
+}
+.blogpedia_menu-fixed{
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    min-height:35%;
+    max-height:100%;
+    height:100%;
+    background-color:#fff;
+    box-shadow:rgb(0 0 0 / 15%) 0 -1px 7px 0;
+    z-index:60;
+    transform:translateY(100%);
+    transition:transform 400ms cubic-bezier(0.63,0.01,0.29,1) 0s
+}
+body{
+    font-weight:normal;
+    height:100%
+}
+.mobile .harga-mobile{
+    margin:8px 0
+}
+.mobile .harga-mobile p.harga_text{
+    font-size:24px;
+    font-weight:700;
+    line-height:30px;
+    margin:0;
+    word-break:break-word;
+    display:-webkit-box;
+    -webkit-line-clamp:1;
+    -webkit-box-orient:vertical;
+    overflow:hidden;
+    max-width:90%
+}
+.mobile .blogpedia-blogger{
+    max-width:500px;
+    margin:0 auto
+}
+.mobile .tokopedia_wrappper,.mobile .Penjelasan{
+    width:100%;
+    max-width:100%
+}
+.mobile .score-star{
+    display:flex;
+    font-size:.85rem;
+    color:rgba(49,53,59,0.68);
+    -webkit-box-align:center;
+    align-items:center;
+    line-height:normal;
+    height:12px
+}
+.mobile .line-star{
+    margin:1px 4px 0;
+    height:10px;
+    width:1px;
+    background:rgba(49,53,59,0.32)
+}
+.mobile .text-star-m{
+    color:rgba(49,53,59,0.68);
+    line-height:normal;
+    font-size:.85rem
+}
+.info-mobile_produk{
+    margin:0 0 12px;
+    display:flex;
+    list-style:none;
+    padding:0;
+    width:100%
+}
+.info-mobile_produk li{
+    margin:0
+}
+a.btn-mom_xnxx b,a.btn-mom_xnxx svg{
+    color:#31353b;
+    margin-right:4px
+}
+.info-mobile_produk li a.btn-mom_xnxx{
+    padding:7px 8px;
+    border:1px solid #e5e7e9;
+    border-radius:8px;
+    font-size:12px;
+    line-height:18px;
+    color:rgba(49,53,59,0.68);
+    display:flex;
+    -webkit-box-align:center;
+    align-items:center;
+    margin-right:4px;
+    white-space:nowrap
+}
+.profil-mobile h4{
+    font-size:14px;
+    margin:0 0 4px;
+    display:flex;
+    font-weight:600;
+    -webkit-box-align:center;
+    align-items:center
+}
+.ongkir-mobile{
+    line-height:16px;
+    font-size:12px;
+    margin-bottom:2px;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis
+}
+.profil-mobile .simpleCart_shipping{
+    margin-top:8px;
+    font-weight:700
+}
+select#biaya_boshjn{
+    border:1px solid #e5e7e9;
+    cursor:pointer;
+    padding:2px 3px;
+    margin:0 4px;
+    border-radius:4px;
+    background:transparent;
+    font-weight:700;
+    outline:0
+}
+.comments .comments-content .icon.blog-author:after{
+    font-weight:700;
+    color:#03ac0e
+}
+.mobile .topMobile{
+    padding-top:48px;
+    height: 70px;
+}
+ .adsMobileWidget{
+     background-image: url(https://assets.tokopedia.net/assets-tokopedia-lite/v2/atreus/kratos/80e0d930.svg);
+     background-color: rgb(249, 255, 252);
+     background-size: cover;
+     background-repeat: no-repeat;
+     position: fixed;
+     top: 0px;
+     left: 0px;
+     right: 0px;
+     height: 72px;
+     box-shadow: rgb(0 0 0 / 15%) 0px 2px 8px;
+     padding: 0px 8px;
+     -webkit-box-pack: justify;
+     justify-content: space-between;
+     -webkit-box-align: center;
+     align-items: center;
+     z-index: 42;
+     display: flex;
+}
+ .adsIconMobile,.adsBtnMobile{
+    cursor:pointer;
+    height:100%;
+    display:flex;
+    -webkit-box-align:center;
+    align-items:center
+}
+.adsIconMobile img{
+    width:40px;
+    height:40px;
+    margin-right:8px
+}
+.mobile .adsIconMobile span{
+    line-height:16px;
+    color:rgba(49,53,59,0.96);
+    font-size:12px;
+    font-weight:bold;
+    max-width:175px;
+    overflow:hidden;
+    display:-webkit-box;
+    -webkit-line-clamp:2;
+    -webkit-box-orient:vertical
+}
+.btnMobile{
+    margin-right:12px;
+    line-height:30px;
+    border-radius:8px;
+    text-align:center;
+    width:78px;
+    background:#03ac0e;
+    color:#fff;
+    font-weight:700;
+    border:0;
+    cursor:pointer
+}
+.btnMobile a{
+    color:#fff!important
+}
+.mobile .tokopedia_hot,.mobile #fiktur-wrapper .tokped_cum-inside{
+    padding:8px 0;
+    margin:0
+}
+.mobile .order-wrap{
+    min-width:100%;
+    padding:16px;
+    top:auto;
+    left:0;
+    bottom:0;
+    transform:none;
+    border:0;
+    border-radius:8px 8px 0 0
+}
+#blogpedia-footer-wrapper .widget ul{
+    margin-top:0;
+    padding:0;
+    line-height:26px;
+    font-weight:400
+}
+.mobile #blogpedia-footer-wrapper .widget ul li{
+    margin:0;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    overflow:hidden
+}
+.mobile #blogpedia-footer-wrapper .widget a{
+    font-family:&quot;
+    Open Sans&quot;
+    ,sans-serif
+}
+.mobile div.newSectionM{
+    height:60px;
+    position:absolute;
+    bottom:0;
+    right:0;
+    left:0;
+    display:flex;
+    -webkit-box-align:center;
+    align-items:center;
+    -webkit-box-pack:center;
+    justify-content:center;
+    background:linear-gradient(rgba(255,255,255,0.3) 0,#ffffff 40%)
+}
+.mobile .openDetail_more{
+    color:inherit;
+    font-size:12px;
+    height:32px;
+    line-height:16px;
+    width:auto;
+    border-radius:8px;
+    font-weight:700;
+    outline:0;
+    overflow:hidden;
+    padding:0 16px;
+    transition:background .8s ease 0s;
+    display:inline-block;
+    background:radial-gradient(circle,transparent 1%,#ffffff 1%) center center / 15000% #fff;
+    border:1px solid #9fa6b0
+}
+.mobile #blogpedia_wrapper{
+    margin:0 auto
+}
+.mobile #fiktur-wrapper{
+    padding:0 24px;
+    margin:0
+}
+.mobile #fiktur-wrapper .tokped_cum-inside{
+    max-height:200px;
+    font-size:.857143rem;
+    line-height:1.5;
+    text-align:center;
+    color:rgba(0,0,0,0.38)
+}
+.mobile #fiktur-wrapper .tokped_cum-inside.lengkap{
+    max-height:none
+}
+.mobile #fiktur-wrapper .tokopedia_xNxx,.tokopedia_hot{
+    overflow:hidden
+}
+.mobile .btnBlogpedia_widget{
+    margin:0 0 0 12px;
+    min-height:auto;
+    padding-bottom:8px
+}
+.mobile .btnBlogpedia_home{
+    width:104px;
+    height:52px;
+    margin:4px
+}
+.mobile .btnBlogpedia_home a:link{
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+    height:auto;
+    -webkit-line-clamp:2;
+    width:100%;
+    font-size:.857143rem;
+    font-weight:600;
+    line-height:1.5
+}
+.mobile #widget-footer4 .LinkList a:after{
+    content:&quot;
+    &quot;
+    ;
+    background-color:rgba(49,53,59,0.68);
+    display:inline-block;
+    height:11px;
+    margin:0 6px;
+    vertical-align:middle;
+    width:1px
+}
+.mobile #blogpedia-footer-wrapper .LinkList .mobile-widget-footer a{
+    font-size:12px;
+    line-height:22px;
+    font-weight:normal
+}
+.mobile .blogpedia_footer-raw h3{
+    font-size:1rem;
+    margin:.67em 0;
+    font-weight:bold;
+    color:#6c727c;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    overflow:hidden
+}
+.mobile #mobile-blogpedia .btn{
+    display:flex;
+    cursor:pointer;
+    -webkit-box-align:center;
+    align-items:center;
+    -webkit-box-pack:justify;
+    justify-content:space-between;
+    padding:8px 0 16px
+}
+.mobile .widget-icon-down{
+    transform:rotate(0deg);
+    transition:transform .2s ease 0s;
+    margin-top:4px
+}
+.mobile .blogpedia_down .widget-icon-down{
+    transform:rotate(180deg)
+}
+.mobile .blogpedia_footer-raw .widget{
+    border-bottom:1px solid #e5e7e9
+}
+.mobile .blogpedia_footer-raw #widget-footer4 .widget{
+    padding:16px 0;
+    border:0;
+    font-size:10px;
+    line-height:10px
+}
+.mobile #widget-footer4{
+    padding:0;
+    margin:0;
+    display:block;
+    text-align:left
+}
+.mobile .blogpedia_footer-raw #widget-footer4 .widget-title h3{
+    color:#31353b;
+    font-size:14px;
+    margin:0 0 8px;
+    line-height:18px
+}
+.mobile #blogpedia-footer{
+    margin-top:0;
+    padding:0 0 50px;
+    border:0
+}
+.mobile #blogpedia-footer-wrapper{
+    padding:8px 0;
+    box-shadow:none
+}
+.mobile .blogpedia_footer-raw{
+    width:100%;
+    display:inherit;
+    padding:0 16px
+}
