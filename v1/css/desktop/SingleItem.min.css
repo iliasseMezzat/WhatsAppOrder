@@ -968,8 +968,7 @@ button.s2 {
 .kodepos.focus {
 	border: 1px solid #d6001c
 }
-
-.tombol-beli {
+.sticky-cart-bar {
 	margin: 0 auto;
 	position: fixed;
 	left: 0;
@@ -980,6 +979,18 @@ button.s2 {
 	background: #fff;
 	padding: 20px
 }
+
+/* .tombol-beli {
+	margin: 0 auto;
+	position: fixed;
+	left: 0;
+	z-index: 30;
+	border-radius: 16px 16px 0 0;
+	right: 0;
+	bottom: 0;
+	background: #fff;
+	padding: 20px
+} */
 
 .facebook {
 	background: #3b5998
