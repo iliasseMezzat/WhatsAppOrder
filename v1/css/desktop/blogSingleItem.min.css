@@ -267,6 +267,10 @@ small.stock {
 	border-color: #4fd15a
 }
 
+.sticky-cart-bar {
+	box-shadow: 0 -2px 6px 0 rgba(49, 53, 59, .16)
+}
+
 .tombol-beli {
 	box-shadow: 0 -2px 6px 0 rgba(49, 53, 59, .16)
 }
