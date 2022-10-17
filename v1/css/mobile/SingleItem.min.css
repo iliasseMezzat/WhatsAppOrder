@@ -36,13 +36,21 @@
 	top: 0
 }
 
-.tokopedia_more-mobile {
+.blogspot_more-mobile {
 	color: #03ac0e;
 	cursor: pointer;
 	font-size: 12px;
 	font-weight: 700;
 	display: inline-block
 }
+
+/* .tokopedia_more-mobile {
+	color: #03ac0e;
+	cursor: pointer;
+	font-size: 12px;
+	font-weight: 700;
+	display: inline-block
+} */
 
 .blogpedia-flex_body {
 	display: flex;
