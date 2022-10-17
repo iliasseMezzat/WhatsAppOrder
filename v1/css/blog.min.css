@@ -2098,7 +2098,7 @@ div.tokped_redtube {
 .tokped_img-link .enak {
     display: flex;
     width: 440px;
-    height: 126px;
+    /*height: 126px;*/
     margin: 0 0 0 auto
 }
 
